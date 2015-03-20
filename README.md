@@ -1,2 +1,2 @@
 # hello-world
-Hello World...with the rREADME
+Hello World...with the README
